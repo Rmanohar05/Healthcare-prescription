@@ -8,7 +8,7 @@ import pytesseract
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="MedClear – Healthcare AI Assistant",
+    page_title="RM_Healthcare AI Assistant",
     page_icon="🏥",
     layout="wide",
     initial_sidebar_state="expanded",
