@@ -1,0 +1,8 @@
+streamlit
+groq
+pypdf
+reportlab
+Pillow
+numpy
+pytesseract
+opencv-python-headless
