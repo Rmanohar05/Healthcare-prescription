@@ -219,7 +219,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-header">
       <div class="sidebar-cross">✚</div>
-      <div class="sidebar-brand">MedClear</div>
+      <div class="sidebar-brand">RM_MED</div>
       <div class="sidebar-tagline">Healthcare AI Assistant</div>
     </div>
     """, unsafe_allow_html=True)
